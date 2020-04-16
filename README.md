@@ -1,7 +1,7 @@
 # Editor-de-Imagem
 Edita uma imagem selecionada, com algumas funções.
 
-##Funções
+## Funções
 * Ler imagem
 * Gravar imagem
 * Aumentar o brilho
